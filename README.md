@@ -245,6 +245,9 @@ This project is part of my ongoing learning journey in AI/ML engineering, with a
 
 I am continuing to explore AI technologies and build practical AI/ML projects. I welcome opportunities to connect with AI/ML engineers, Generative AI developers, cloud architects, recruiters, and other technology professionals.
 
+- 💼 **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/mmurthy25/)
+- 💻 **GitHub:** [Explore my AI/ML Portfolio](https://github.com/ms-murthy/Portfolio-Projects)
+
 If you find this project useful, please consider giving the repository a star.
 
 ---
