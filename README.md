@@ -188,25 +188,49 @@ Potential next steps include:
 
 ## Project Screenshots
 
-Add your own lab screenshots to an `images/` folder in this repository. Once the images have been committed, you can display them using Markdown image links, for example:
+The screenshots below capture the key stages of the Microsoft Foundry lab—from project setup and model discovery to deployment, prompt experimentation, endpoint review, and Visual Studio Code integration.
 
-```markdown
-![Microsoft Foundry project dashboard](images/foundry-project.png)
-```
+### 1. Microsoft Foundry Project
 
-Suggested screenshots:
+![Microsoft Foundry project](images/foundry-project.png)
 
-| Suggested file | Description |
-|---|---|
-| `images/foundry-project.png` | Microsoft Foundry project dashboard |
-| `images/model-catalog.png` | Model Catalog and model selection |
-| `images/model-deployment.png` | Foundation-model deployment |
-| `images/model-playground.png` | Model Playground and prompt testing |
-| `images/foundry-endpoints.png` | Project and resource endpoint details |
-| `images/vscode-integration.png` | Foundry integration in Visual Studio Code |
-| `images/vscode-model-test.png` | Model testing from Visual Studio Code |
+*Foundry project workspace created for the lab.*
 
-*The filenames above are suggestions. Add the image files before using them as rendered image links.*
+### 2. Explore the Model Catalog
+
+![Model Catalog](images/model-catalog.png)
+
+*Browse the available foundation models and review model options.*
+
+### 3. Foundation Model Deployment
+
+![Model deployment](images/model-deployment.png)
+
+*Deployment configuration for the selected foundation model.*
+
+### 4. Test Prompts in the Model Playground
+
+![Model Playground](images/model-playground.png)
+
+*Experiment with prompts and review model-generated responses.*
+
+### 5. Review Endpoints
+
+![Foundry endpoints](images/foundry-endpoints.png)
+
+*Review endpoint details used when integrating models with applications.*
+
+### 6. Microsoft Foundry Integration with Visual Studio Code
+
+![Foundry integration in VS Code](images/vscode-integration.png)
+
+*Connect the development environment to Microsoft Foundry.*
+
+### 7. Test the Model from Visual Studio Code
+
+![Model testing in VS Code](images/vscode-model-test.png)
+
+*Access and test the deployed model from the IDE.*
 
 ## About This Project
 
